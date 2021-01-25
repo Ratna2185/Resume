@@ -71,7 +71,7 @@
                         <div class="contact-info mt-30 wow fadeInUp" data-wow-delay="700ms">
                             <a href="https://mail.google.com/mail/u/1/#inbox?compose=new"><img src="{% static 'website/img/core-img/envelope-small.png' %}" alt=""> ratna2185@gmail.com </a>
                             <a href="#"><img src="{% static 'website/img/core-img/phone-call-small.png' %}" alt=""> +91 9573244708 </a>
-                            <a href="https://ratna2185.tenali.com/"><img src="{% static 'website/img/core-img/monitor-small.png' %}" alt=""> ratna2185.in </a>
+                            <a href="https://Ratna2185.tenali.com/"><img src="{% static 'website/img/core-img/monitor-small.png' %}" alt=""> ratna2185.in </a>
                         </div>
                         <!-- Social Info -->
                         <div class="social-info mt-30 wow fadeInUp" data-wow-delay="100ms">
