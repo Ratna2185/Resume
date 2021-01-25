@@ -66,16 +66,16 @@
                     <div class="hero-content">    
                         <h5 class="wow fadeInUp" data-wow-delay="100ms">Hello I’m</h5>
                         <h2 class="wow fadeInUp" data-wow-delay="300ms">RatnaBabu</h2>
-                        <h3 class="wow fadeInUp" data-wow-delay="500ms">Cloud Infrastructure Architect</h3>
+                        <h3 class="wow fadeInUp" data-wow-delay="500ms">Network Engineer</h3>
                         <!-- Contact Info -->
                         <div class="contact-info mt-30 wow fadeInUp" data-wow-delay="700ms">
                             <a href="https://mail.google.com/mail/u/1/#inbox?compose=new"><img src="{% static 'website/img/core-img/envelope-small.png' %}" alt=""> ratna2185@gmail.com </a>
                             <a href="#"><img src="{% static 'website/img/core-img/phone-call-small.png' %}" alt=""> +91 9573244708 </a>
-                            <a href="https://ratna2185.tenali.com/"><img src="{% static 'website/img/core-img/monitor-small.png' %}" alt=""> prudhvi6e.in </a>
+                            <a href="https://ratna2185.tenali.com/"><img src="{% static 'website/img/core-img/monitor-small.png' %}" alt=""> ratna2185.in </a>
                         </div>
                         <!-- Social Info -->
                         <div class="social-info mt-30 wow fadeInUp" data-wow-delay="100ms">
-                            <a href="https://github.com/prudhvi6e" data-toggle="tooltip" data-placement="top" title="Github"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
+                            <a href="https://github.com/ratna2185" data-toggle="tooltip" data-placement="top" title="Github"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
                             <a href="https://www.instagram.com/prudhvi6e/" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram fa-lg" aria-hidden="true"></i></a>
                             <a href="https://www.linkedin.com/in/prudhvi-chowdary-764a0a184/" data-toggle="tooltip" data-placement="top" title="Linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                             <a href="https://twitter.com/prudhvi6e" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
@@ -185,9 +185,9 @@
             <div class="row">
                 <div class="col-12">
 <h7> <b>Environment:</b> Web Application<br>
-        <b>Technologies:</b> HTML, CSS, Bootstrap, Django and Python<br>
-        <b>&bull;</b> I have been part of development team in a startup called <b>"Get your needs"</b> which will officially launch by 2021 January.<br>
-        <b>&bull;</b> Get your needs is an E-commerce website that is used to deliver B2B & B2C operations efficiently, with real insights into active trends. Our goal is to reduce poverty & make India grow economically rich in each & every aspect.<br>
+        <b>Tools:</b>Linux, Windows, Network, PRTG, DDN Insight, HP 3PAR, Dell EMC, QSTAR,   Spectra Tape Library, Apache Tomcat and VMware.<br>
+        //<b>&bull;</b> I have been part of development team in a startup called <b>"Get your needs"</b> which will officially launch by 2021 January.<br>//
+        //<b>&bull;</b> Get your needs is an E-commerce website that is used to deliver B2B & B2C operations efficiently, with real insights into active trends. Our goal is to reduce poverty & make India grow economically rich in each & every aspect.<br>//
         <b>&bull;</b> I have been part of development team in a startup called <b>"Ask your needs"</b> which will officially launch by 2021 January.<br>
         <b>&bull;</b> Ask your needs is an E-commerce website that is used to deliver B2B & B2C operations efficiently, with real insights into active trends. Our goal is to reduce poverty & make India grow economically rich in each & every aspect.<br>
         <b>Contract oversight</b> <br>
@@ -202,10 +202,61 @@
 
     <!-- ##### About Me Area End ##### -->
 @@ -328,7 +329,7 @@ <h2>Education</h2>
-                                                <h5>2017 - September 2020</h5>
-                                                <h4>VARDHAMAN COLLEGE OF ENGINEERING</h4>
-                                                <h6>HYDERABAD</h6>
-                                                <p>I have recently graduated from Vardhaman college of engineering, majoring in CSE with a CGPA of 6.75. I have taken part in different workshops and events in and out of college.</p>
-                                                <p>I have recently graduated from Vardhaman college of engineering, majoring in CSE with a CGPA of 6.85. I have taken part in different workshops and events in and out of college.</p>
+                                               // <h5>2007 - September 2020</h5>
+                                                <h4>S.R.K.R ENGINEERING COLLEGE</h4>
+                                                <h6>BHIMAVARAM</h6>
+                                                <p>I have  graduated from S.R.K.R Engineering college, majoring in CSE. I have taken part in different workshops and events in and out of college.</p>
+                                              
                                             </div> 
                                         </div>
+                                        <!-- Single Work Education -->
+                                        <div class="single-education-timeline d-flex even-item">
+                                            <div class="education-icon mr-15">
+                                                <img src="{% static 'website/img/core-img/edu2.png' %}" alt="">
+                                            </div>
+                                            <div class="education-content">
+                                              
+                                                <h4>ADITYA JUNIOR COLLEGE</h4>
+                                                <h6>BHIMAVARAM</h6>
+                                                <p>I completed my  12th from Aditya Junior College, Bhimavaram .</p>
+                                                </div>
+                                        </div>
+                                                
+                                        <!-- Single Work Education -->
+                                        <div class="single-education-timeline d-flex odd-item">
+                                            <div class="education-icon mr-15">
+                                                <img src="{% static 'website/img/core-img/edu3.png' %}" alt="">
+                                            </div>
+                                            <div class="education-content">
+                                                
+                                                <h4>S.C.B.R.Z.P HIGH SCHOOL</h4>
+                                                <h6>GANAPAVARAM </h6>
+                                                <p>I completed my schooling from S.C.B.R.Z.P. high school, Ganapavaram . I took part in various school activities especially sports as I am more of an outdoor person.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+            <!-- See More Button -->
+            <div class="row">
+                <div class="col-12">
+                    <div class="see-more mt-70 text-center wow fadeInUp" data-wow-delay="100ms">
+                        <a href="https://drive.google.com/file/d/1xRIccflyd7uzIlDXNLsqk7_0WzqP6LeV/view?usp=sharing" class="btn vcard-btn" download>Download Resume</a>
+                    </div>
+                </div>
+            </div>
+    <!-- ##### All Javascript Files ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="{% static 'website/js/jquery/jquery-2.2.4.min.js' %}"></script>
+    <!-- Popper js -->
+    <script src="{% static 'website/js/bootstrap/popper.min.js' %}"></script>
+    <!-- Bootstrap js -->
+    <script src="{% static 'website/js/bootstrap/bootstrap.min.js' %}"></script>
+    <!-- All Plugins js -->
+    <script src="{% static 'website/js/plugins/plugins.js' %}"></script>
+    <!-- Active js -->
+    <script src="{% static 'website/js/active.js' %}"></script>
+</body>
+</html>
+{% load static %} 
+                                        
